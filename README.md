@@ -13,6 +13,7 @@ cd Deploy_flask-web-application-using-docker-compose
 ```
 docker-compose up -d
 ```
+#### open your browser and type
 ```
 The_machine_public_ip_or_Dns_name:9000
 ```
