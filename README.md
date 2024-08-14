@@ -9,7 +9,7 @@ git clone https://github.com/emar137/Deploy_flask-web-application-using-docker-c
 ```
 cd Deploy_flask-web-application-using-docker-compose
 ```
-#### How to  run containers using docker compose
+#### Run containers using docker compose  in order to access the web application
 ```
 docker-compose up -d
 ```
