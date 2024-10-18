@@ -1,7 +1,7 @@
 # Deploy_flask-web-application-using-docker-compose
 #### Tools 
 Dockerfile | Docker compose |ec2 instance |flask-redis
-#### project design
+#### Project design
 ![image](https://github.com/user-attachments/assets/c19b6f41-e0b6-469c-8266-6b9462c8cab4)
 
 #### Clone the repository
