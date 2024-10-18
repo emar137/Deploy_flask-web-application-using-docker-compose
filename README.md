@@ -1,6 +1,9 @@
 # Deploy_flask-web-application-using-docker-compose
 #### Tools 
-Dockerfile,Docker compose,ec2 instance,flask,redis
+Dockerfile|Docker compose|ec2 instance|flask,redis
+#### project design
+![Uploading image.png…]()
+
 #### Clone the repository
 ```
 git clone https://github.com/emar137/Deploy_flask-web-application-using-docker-compose.git
